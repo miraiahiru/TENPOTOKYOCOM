@@ -60,10 +60,9 @@ const NewPropertiesCarousel = () => {
         {/* Header */}
         <div className="flex justify-between items-center mb-8">
           <div>
-            <h2 className="text-3xl font-bold text-gray-900 mb-2">新着物件</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-2">新着物件！</h2>
             <p className="text-lg text-gray-600">Airtableから取得した最新の物件情報</p>
           </div>
-          
           {/* Controls */}
           <div className="flex items-center space-x-4">
             <button
